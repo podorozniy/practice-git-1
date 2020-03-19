@@ -3,3 +3,5 @@ first line
 
 to be commited
 not to be commited
+
+slack commit
